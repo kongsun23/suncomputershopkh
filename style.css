@@ -155,8 +155,9 @@ a {
   }
 }
 .header{
-  position: relative;
+  position:absolute;
   z-index: 100;
+  width:auto ;
 }
 
 /* section {
@@ -176,8 +177,10 @@ nav a:hover{
 }
 
 .banner{
-  /* position: relative; */
-  top: 50px;
+  position: relative;
+  top: 60px;
+  align-items: center;
+  width:auto;
 }
 
 /* img */
