@@ -265,8 +265,10 @@ div.desc {
 
 /* contact */
 .cont {
+
+  top: -50;
   font-family: Arial, sans-serif;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   margin: 0;
   padding: 0;
   display: flex;
