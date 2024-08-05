@@ -340,9 +340,11 @@ textarea {
 
 /* footer */
 .footer-basic {
+  position: relative;
   padding:40px 0;
   background-color:#2196F3;
   color:#ffffff;
+
 }
 
 .footer-basic ul {
